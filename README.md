@@ -25,3 +25,6 @@ module.exports = {
   "migrations-path": path.resolve("./src/db/migrations"),
   
 };
+
+# Redux Set Up
+https://medium.com/@learnwithalfred/react-with-redux-toolkit-and-createasyncthunk-complementary-guide-c3a3bb2a1113
