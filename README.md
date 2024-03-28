@@ -28,3 +28,6 @@ module.exports = {
 
 # Redux Set Up
 https://medium.com/@learnwithalfred/react-with-redux-toolkit-and-createasyncthunk-complementary-guide-c3a3bb2a1113
+https://blog.logrocket.com/using-redux-toolkits-createasyncthunk/
+https://dev.to/chinwike/separating-logic-in-your-redux-toolkit-application-h7i
+https://www.bezkoder.com/redux-toolkit-example-crud/
